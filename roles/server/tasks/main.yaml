@@ -1,0 +1,6 @@
+- name: Deploy Server
+  template:
+    src: test2.j2
+    dest: /tmp/test2
+
+
